@@ -1,0 +1,159 @@
+{
+  "book": "机器学习",
+  "dir": "Book7_Visualizations-for-Machine-Learning",
+  "chapters": [
+    {
+      "num": "00",
+      "title": "正文前",
+      "pdf": "Chapter_00_正文前/Book7_Ch00_正文前__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "01",
+      "title": "机器学习",
+      "pdf": "Chapter_01_机器学习/Book7_Ch01_机器学习__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "02",
+      "codes": "Chapter_02_回归分析/Book7_Ch02_Python_Codes",
+      "title": "回归分析",
+      "pdf": "Chapter_02_回归分析/Book7_Ch02_回归分析__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "03",
+      "codes": "Chapter_03_多元线性回归/Book7_Ch03_Python_Codes",
+      "title": "多元线性回归",
+      "pdf": "Chapter_03_多元线性回归/Book7_Ch03_多元线性回归__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "04",
+      "codes": "Chapter_04_非线性回归/Book7_Ch04_Python_Codes",
+      "title": "非线性回归",
+      "pdf": "Chapter_04_非线性回归/Book7_Ch04_非线性回归__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "05",
+      "codes": "Chapter_05_正则化/Book7_Ch05_Python_Codes",
+      "title": "正则化",
+      "pdf": "Chapter_05_正则化/Book7_Ch05_正则化__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "06",
+      "codes": "Chapter_06_贝叶斯回归/Book7_Ch06_Python_Codes",
+      "title": "贝叶斯回归",
+      "pdf": "Chapter_06_贝叶斯回归/Book7_Ch06_贝叶斯回归__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "07",
+      "codes": "Chapter_07_高斯过程/Book7_Ch07_Python_Codes",
+      "title": "高斯过程",
+      "pdf": "Chapter_07_高斯过程/Book7_Ch07_高斯过程__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "08",
+      "codes": "Chapter_08_最近邻分类/Book7_Ch08_Python_Codes",
+      "title": "最近邻分类",
+      "pdf": "Chapter_08_最近邻分类/Book7_Ch08_最近邻分类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "09",
+      "codes": "Chapter_09_朴素贝叶斯分类/Book7_Ch09_Python_Codes",
+      "title": "朴素贝叶斯分类",
+      "pdf": "Chapter_09_朴素贝叶斯分类/Book7_Ch09_朴素贝叶斯分类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "10",
+      "codes": "Chapter_10_高斯判别分析/Book7_Ch10_Python_Codes",
+      "title": "高斯判别分析",
+      "pdf": "Chapter_10_高斯判别分析/Book7_Ch10_高斯判别分析__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "11",
+      "codes": "Chapter_11_支持向量机/Book7_Ch11_Python_Codes",
+      "title": "支持向量机",
+      "pdf": "Chapter_11_支持向量机/Book7_Ch11_支持向量机__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "12",
+      "codes": "Chapter_12_核技巧/Book7_Ch12_Python_Codes",
+      "title": "核技巧",
+      "pdf": "Chapter_12_核技巧/Book7_Ch12_核技巧__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "13",
+      "codes": "Chapter_13_决策树/Book7_Ch13_Python_Codes",
+      "title": "决策树",
+      "pdf": "Chapter_13_决策树/Book7_Ch13_决策树__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "14",
+      "codes": "Chapter_14_主成分分析/Book7_Ch14_Python_Codes",
+      "title": "主成分分析",
+      "pdf": "Chapter_14_主成分分析/Book7_Ch14_主成分分析__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "15",
+      "codes": "Chapter_15_截断型奇异值分解/Book7_Ch15_Python_Codes",
+      "title": "截断型奇异值分解",
+      "pdf": "Chapter_15_截断型奇异值分解/Book7_Ch15_截断型奇异值分解__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "16",
+      "codes": "Chapter_16_主成分分析进阶/Book7_Ch16_Python_Codes",
+      "title": "主成分分析进阶",
+      "pdf": "Chapter_16_主成分分析进阶/Book7_Ch16_主成分分析进阶__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "17",
+      "codes": "Chapter_17_主成分分析与回归/Book7_Ch17_Python_Codes",
+      "title": "主成分分析与回归",
+      "pdf": "Chapter_17_主成分分析与回归/Book7_Ch17_主成分分析与回归__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "18",
+      "codes": "Chapter_18_核主成分分析/Book7_Ch18_Python_Codes",
+      "title": "核主成分分析",
+      "pdf": "Chapter_18_核主成分分析/Book7_Ch18_核主成分分析__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "19",
+      "codes": "Chapter_19_典型相关分析/Book7_Ch19_Python_Codes",
+      "title": "典型相关分析",
+      "pdf": "Chapter_19_典型相关分析/Book7_Ch19_典型相关分析__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "20",
+      "title": "k均值聚类",
+      "pdf": "Chapter_20_k均值聚类/Book7_Ch20_k均值聚类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf",
+      "codes": "Chapter_20_k均值聚类/Book7_Ch20_Python_Codes"
+    },
+    {
+      "num": "21",
+      "codes": "Chapter_21_高斯混合模型/Book7_Ch21_Python_Codes",
+      "title": "高斯混合模型",
+      "pdf": "Chapter_21_高斯混合模型/Book7_Ch21_高斯混合模型__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "22",
+      "title": "最大期望算法",
+      "pdf": "Chapter_22_最大期望算法/Book7_Ch22_最大期望算法__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "23",
+      "codes": "Chapter_23_层次聚类/Book7_Ch23_Python_Codes",
+      "title": "层次聚类",
+      "pdf": "Chapter_23_层次聚类/Book7_Ch23_层次聚类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "24",
+      "codes": "Chapter_24_密度聚类/Book7_Ch24_Python_Codes",
+      "title": "密度聚类",
+      "pdf": "Chapter_24_密度聚类/Book7_Ch24_密度聚类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    },
+    {
+      "num": "25",
+      "codes": "Chapter_25_谱聚类/Book7_Ch25_Python_Codes",
+      "title": "谱聚类",
+      "pdf": "Chapter_25_谱聚类/Book7_Ch25_谱聚类__机器学习__鸢尾花书__从加减乘除到机器学习.pdf"
+    }
+  ]
+}
